@@ -2,4 +2,5 @@ Creating a new branch is quick AND simple.
 test no-ff merge ferture.
 learn test ff merge ferture.
 test stash ferture.
-pull & push.
+learn fix the conflict.
+pull and push.
